@@ -17,7 +17,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  3 - Time Complexity : 
-  3.1 - Best Case Complexity : n if given array is already sorted. This algorithms has to travel at least all elements of array one time.
+  3.1 - Best Case Complexity : n if given array is already sorted. This algorithms has to travel at least all elements of array one time. \
   3.2 - Average Case Complexity : n^2 due to an unordered array, insertion sort algorithm travels in every elements of the array.
   3.3 - Worst Case Complexity : n^2 if the array is sorted from largest to smallest, to sort smallest to largest the algorithm works on two nested loops. 
  
